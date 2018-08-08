@@ -1,0 +1,12 @@
+{
+  "name": "bandsintown-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dallin-christensen/bandsintown-api.git",
+  "author": "Dallin Christensen <dallin@pyxiscoin.com>",
+  "license": "MIT",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "node-fetch": "^2.2.0"
+  }
+}
