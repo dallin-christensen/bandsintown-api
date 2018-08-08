@@ -7,7 +7,7 @@ const convertToBody = (data) => {
   a.href = data.facebook_page_url
   img.src = data.image_url
   a.appendChild(img)
-  document.getElementById('ImgContainer').append(a)
+  document.body.append(a)
 }
 
 const getArtistData = (artistName) => {
